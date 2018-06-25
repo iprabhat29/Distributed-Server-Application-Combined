@@ -1,0 +1,920 @@
+Starting Main
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1592, "Bronze": 7}}
+Time taken for processing request 0.050096988678
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18102, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.0814311504364
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1592, "Bronze": 7}}
+Time taken for processing request 0.0890290737152
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1592, "Bronze": 7}}
+Time taken for processing request 0.0901801586151
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.118165016174
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.152193069458
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1593, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18103, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1593, "Bronze": 7}}
+Time taken for processing request 0.224875926971
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18103, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.228637933731
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1593, "Bronze": 7}}
+Time taken for processing request 0.251310825348
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1593, "Bronze": 7}}
+Time taken for processing request 0.26390004158
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.280624866486
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.256519794464
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1594, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18104, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1594, "Bronze": 7}}
+Time taken for processing request 0.238195896149
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18104, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.233034133911
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1594, "Bronze": 7}}
+Time taken for processing request 0.231559991837
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1594, "Bronze": 7}}
+Time taken for processing request 0.227735996246
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.211174964905
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.226151943207
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1595, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18105, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1595, "Bronze": 7}}
+Time taken for processing request 0.250823020935
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18105, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.25852394104
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1595, "Bronze": 7}}
+Time taken for processing request 0.244942188263
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1595, "Bronze": 7}}
+Time taken for processing request 0.255554914474
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.252449989319
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.251986026764
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1596, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18106, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1596, "Bronze": 7}}
+Time taken for processing request 0.228377103806
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18106, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.26815700531
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1596, "Bronze": 7}}
+Time taken for processing request 0.275012969971
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1596, "Bronze": 7}}
+Time taken for processing request 0.271604061127
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.267818927765
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.285687923431
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1597, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18107, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1597, "Bronze": 7}}
+Time taken for processing request 0.337002038956
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18107, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.28905415535
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1597, "Bronze": 7}}
+Time taken for processing request 0.3108959198
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1597, "Bronze": 7}}
+Time taken for processing request 0.3284740448
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.323198080063
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.29869890213
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1598, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18108, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1598, "Bronze": 7}}
+Time taken for processing request 0.25908780098
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18108, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.259710073471
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1598, "Bronze": 7}}
+Time taken for processing request 0.23591709137
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1598, "Bronze": 7}}
+Time taken for processing request 0.231481075287
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.279639959335
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.281217813492
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1599, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18109, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1599, "Bronze": 7}}
+Time taken for processing request 0.29954791069
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18109, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.281413078308
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1599, "Bronze": 7}}
+Time taken for processing request 0.280911922455
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1599, "Bronze": 7}}
+Time taken for processing request 0.281074047089
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.229448080063
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.23792886734
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1600, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18110, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1600, "Bronze": 7}}
+Time taken for processing request 0.228430986404
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18110, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.249461174011
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1600, "Bronze": 7}}
+Time taken for processing request 0.240128040314
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1600, "Bronze": 7}}
+Time taken for processing request 0.211088895798
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.244200944901
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.247660160065
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1601, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18111, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1601, "Bronze": 7}}
+Time taken for processing request 0.452347993851
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18111, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.504936933517
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1601, "Bronze": 7}}
+Time taken for processing request 0.555593967438
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1601, "Bronze": 7}}
+Time taken for processing request 0.592549085617
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.605686903
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.617558002472
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1602, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18112, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1602, "Bronze": 7}}
+Time taken for processing request 0.681663990021
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18112, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.707182884216
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1602, "Bronze": 7}}
+Time taken for processing request 0.702352046967
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1602, "Bronze": 7}}
+Time taken for processing request 0.664932966232
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.696243047714
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.74622297287
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1603, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18113, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1603, "Bronze": 7}}
+Time taken for processing request 0.911772966385
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18113, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.886413097382
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1603, "Bronze": 7}}
+Time taken for processing request 0.916357040405
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1603, "Bronze": 7}}
+Time taken for processing request 0.95310997963
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.962707996368
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.936666965485
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1604, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18114, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1604, "Bronze": 7}}
+Time taken for processing request 0.812484025955
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18114, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.866012096405
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1604, "Bronze": 7}}
+Time taken for processing request 0.889378070831
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1604, "Bronze": 7}}
+Time taken for processing request 0.888298034668
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.845921993256
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.802164077759
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1604, "Bronze": 7}}
+Time taken for processing request 0.414777040482
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18114, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.307718992233
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1605, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18115, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1605, "Bronze": 7}}
+Time taken for processing request 0.400600910187
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.387881994247
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1605, "Bronze": 7}}
+Time taken for processing request 0.471644163132
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.409504175186
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18115, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.391859054565
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1606, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18116, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1606, "Bronze": 7}}
+Time taken for processing request 0.685810089111
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1606, "Bronze": 7}}
+Time taken for processing request 0.82671380043
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.792069911957
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1606, "Bronze": 7}}
+Time taken for processing request 0.77446603775
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.778111934662
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1607, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18117, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18117, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.961447954178
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1607, "Bronze": 7}}
+Time taken for processing request 0.730161905289
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1607, "Bronze": 7}}
+Time taken for processing request 0.372920036316
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.344697952271
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1607, "Bronze": 7}}
+Time taken for processing request 0.352374076843
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.341312885284
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1608, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18118, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18118, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.228599071503
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1608, "Bronze": 7}}
+Time taken for processing request 0.220902919769
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.212514162064
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1608, "Bronze": 7}}
+Time taken for processing request 0.269063949585
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1608, "Bronze": 7}}
+Time taken for processing request 0.238524913788
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.236708879471
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1609, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18119, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18119, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.250087022781
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1609, "Bronze": 7}}
+Time taken for processing request 0.241229057312
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.244730949402
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1609, "Bronze": 7}}
+Time taken for processing request 0.243446826935
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1609, "Bronze": 7}}
+Time taken for processing request 0.221575021744
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.258451938629
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1610, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18120, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18120, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.228874921799
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1610, "Bronze": 7}}
+Time taken for processing request 0.213124990463
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.225876808167
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1610, "Bronze": 7}}
+Time taken for processing request 0.223680019379
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1610, "Bronze": 7}}
+Time taken for processing request 0.244839906693
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.218070030212
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1611, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18121, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18121, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.215600967407
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1611, "Bronze": 7}}
+Time taken for processing request 0.226999998093
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1611, "Bronze": 7}}
+Time taken for processing request 0.202642917633
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.249919891357
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.204457044601
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1611, "Bronze": 7}}
+Time taken for processing request 0.226915121078
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1612, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18122, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18122, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.189548969269
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1612, "Bronze": 7}}
+Time taken for processing request 0.193181991577
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1612, "Bronze": 7}}
+Time taken for processing request 0.217299938202
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.211621046066
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.23385477066
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1612, "Bronze": 7}}
+Time taken for processing request 0.233655929565
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1613, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18123, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18123, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.280615091324
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1613, "Bronze": 7}}
+Time taken for processing request 0.275164842606
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1613, "Bronze": 7}}
+Time taken for processing request 0.244668006897
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.242100954056
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.223569869995
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1613, "Bronze": 7}}
+Time taken for processing request 0.231229066849
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18123, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.101891994476
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1614, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18124, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1614, "Bronze": 7}}
+Time taken for processing request 0.528944015503
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1614, "Bronze": 7}}
+Time taken for processing request 0.555616855621
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.643286943436
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.803560972214
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1614, "Bronze": 7}}
+Time taken for processing request 0.844225168228
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18124, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.894046068192
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1615, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18125, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1615, "Bronze": 7}}
+Time taken for processing request 0.877158880234
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1615, "Bronze": 7}}
+Time taken for processing request 1.08755898476
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 1.0155210495
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.862902879715
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1615, "Bronze": 7}}
+Time taken for processing request 0.821251869202
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18125, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.813494920731
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1616, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18126, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1616, "Bronze": 7}}
+Time taken for processing request 1.26178097725
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 1.03889799118
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 1.14334106445
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1616, "Bronze": 7}}
+Time taken for processing request 1.32036209106
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1616, "Bronze": 7}}
+Time taken for processing request 1.40825796127
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18126, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 1.53450703621
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1616, "Bronze": 7}}
+Time taken for processing request 0.687203884125
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.665958881378
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1617, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18127, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 1.00385499001
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1617, "Bronze": 7}}
+Time taken for processing request 0.865375995636
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1617, "Bronze": 7}}
+Time taken for processing request 0.857128858566
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18127, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.608720064163
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1617, "Bronze": 7}}
+Time taken for processing request 0.574609041214
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.551234960556
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1618, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18128, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1618, "Bronze": 7}}
+Time taken for processing request 0.211709976196
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.318102836609
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1618, "Bronze": 7}}
+Time taken for processing request 0.393157958984
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18128, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.407274961472
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1618, "Bronze": 7}}
+Time taken for processing request 0.432971954346
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.482973098755
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1619, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18129, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1619, "Bronze": 7}}
+Time taken for processing request 0.819972038269
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.834769010544
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1619, "Bronze": 7}}
+Time taken for processing request 0.758985042572
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18129, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.755357980728
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1619, "Bronze": 7}}
+Time taken for processing request 0.727123975754
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.677496910095
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1620, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18130, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1620, "Bronze": 7}}
+Time taken for processing request 0.492264032364
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1620, "Bronze": 7}}
+Time taken for processing request 0.398685932159
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.468568086624
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18130, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.426427841187
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1620, "Bronze": 7}}
+Time taken for processing request 0.435173988342
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.428505897522
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1621, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18131, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1621, "Bronze": 7}}
+Time taken for processing request 0.278892040253
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1621, "Bronze": 7}}
+Time taken for processing request 0.287322044373
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.286240100861
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18131, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.28257894516
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1621, "Bronze": 7}}
+Time taken for processing request 0.273240089417
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.272771120071
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1622, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18132, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1622, "Bronze": 7}}
+Time taken for processing request 0.295598983765
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1622, "Bronze": 7}}
+Time taken for processing request 0.37208199501
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.356729030609
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18132, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.338367938995
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.333503007889
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1622, "Bronze": 7}}
+Time taken for processing request 0.474727153778
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1623, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18133, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1623, "Bronze": 7}}
+Time taken for processing request 0.415514945984
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.341195821762
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18133, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.387849092484
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1623, "Bronze": 7}}
+Time taken for processing request 0.424769878387
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.415966033936
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1623, "Bronze": 7}}
+Time taken for processing request 0.291435003281
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1624, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18134, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1624, "Bronze": 7}}
+Time taken for processing request 0.212363958359
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.199514865875
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1624, "Bronze": 7}}
+Time taken for processing request 0.146450042725
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18134, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.1843791008
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.161997079849
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1624, "Bronze": 7}}
+Time taken for processing request 0.176654100418
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1625, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18135, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1625, "Bronze": 7}}
+Time taken for processing request 0.193366765976
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1625, "Bronze": 7}}
+Time taken for processing request 0.158128976822
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.190237998962
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18135, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.182023048401
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.179523944855
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1625, "Bronze": 7}}
+Time taken for processing request 0.162800073624
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1626, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18136, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Client1--> /getMedalTally/Rome
+DATA RECEIVED from FEP by client1---> {"Rome": {"Gold": 16508, "Silver": 1626, "Bronze": 7}}
+Time taken for processing request 0.130208015442
+Sending Request from Client4--> /getMedalTally/Rome
+DATA RECEIVED by client4 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1626, "Bronze": 7}}
+Time taken for processing request 0.1247651577
+Sending Request from Client6--> /getScore/Stone Curling
+DATA RECEIVED by client6 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.128391027451
+Sending Request from Client5--> /getScore/Stone Throwing
+DATA RECEIVED by client5 from FEP---> {"Rome": "300", "Gual": "600"}
+Time taken for processing request 0.0925209522247
+Sending Request from Client2--> /getMedalTally/Gual
+DATA RECEIVED by client2 from FEP---> {"Gual": {"Gold": 18136, "Silver": 2, "Bronze": 8}}
+Time taken for processing request 0.127440929413
+Sending Request from Client3--> /getMedalTally/Rome
+DATA RECEIVED by Client3 from FEP---> {"Rome": {"Gold": 16508, "Silver": 1626, "Bronze": 7}}
+Time taken for processing request 0.114793777466
+Sending Request from Cacofonix--> /setScore/Stone Throwing/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
+Sending Request from Cacofonix--> /incrementMedalTally/Rome/Silver/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": {"Stone Skating": {"Score": "50"}, "Gold": 16508, "Stone Throwing": {"Score": "300"}, "Stone Curling": {"Score": "300"}, "Silver": 1627, "Bronze": 7}}
+Sending Request from Cacofonix--> /incrementMedalTally/Gual/Gold/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Gual": {"Stone Skating": {"Score": "50"}, "Gold": 18137, "Stone Throwing": {"Score": "600"}, "Stone Curling": {"Score": "600"}, "Silver": 2, "Bronze": 8}}
+Sending Request from Cacofonix--> /setScore/Stone Curling/300/600/Cacofonix
+DATA RECEIVED by Cacofonix from FEP---> {"Rome": "300", "Gual": "600"}
